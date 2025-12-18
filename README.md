@@ -19,3 +19,11 @@ It uses PyQt5 for the graphical interface.
 - `Evaluations.dat` : Results file (generated)
 - `Interface_Evaluation.ui` : PyQt5 UI for students
 - `Interface_Consultation.ui` : PyQt5 UI for teachers
+
+## Screenshots
+
+### Evaluation Interface
+![Evaluation Interface](images/evaluation.png)
+
+### Consultation Interface
+![Consultation Interface](images/consultation.png)
